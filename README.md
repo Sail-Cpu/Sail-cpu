@@ -10,11 +10,13 @@
 
 ## Skills
 
-- ReactJS
-- NextJS
-- ExpressJS 
+- React.js
+- Next.js
+- Express.js 
 - Javascript / TypeScript 
 - HTML / CSS / SCSS
+- Prisma
+- SQL
 
 ## Stats
 <div>
