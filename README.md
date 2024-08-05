@@ -15,8 +15,10 @@
 - Express.js 
 - Javascript / TypeScript 
 - HTML / CSS / SCSS
+- Tailwind
 - Prisma
 - SQL
+- Postgres
 
 ## Stats
 <div>
