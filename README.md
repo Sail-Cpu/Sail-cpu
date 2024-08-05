@@ -1,4 +1,4 @@
-<img src="./assets/hye.png" alt="hye" >
+<img src="./assets/im_sofiane.png" alt="hye" >
 
 👨‍💻 Fullstack Developer with several years of self-taught learning, specialized in React and Next.js, with a strong interest in UI/UX. I have worked on various projects to enhance my skills, which you can check out on my portfolio.
 
