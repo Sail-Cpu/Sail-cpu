@@ -30,5 +30,9 @@
 <h4>🤝 Contact me!</h4>
 <p>I am looking for an apprenticeship for my third year of a Bachelor's Degree in Computer Science. If my profile interests you, don't hesitate to get in touch 😉.</p>
 
+## 📫 Contact
+
+- **Email :** [sofiane.lasoa1@hotmail.com](mailto:sofiane.lasoa1@hotmail.com)
+- **LinkedIn :** [linkedin.com/in/sofiane-lasoa](https://www.linkedin.com/in/sofiane-lasoa-506678234/)
 <!--
 **Sail-Cpu/Sail-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
