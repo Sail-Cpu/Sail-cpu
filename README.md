@@ -15,7 +15,7 @@
 - Express.js 
 - Javascript / TypeScript 
 - HTML / CSS / SCSS
-- Tailwind
+- Tailwindcss
 - Prisma
 - SQL
 - Postgres
