@@ -13,7 +13,8 @@
 - React.js
 - Next.js
 - Express.js 
-- Javascript / TypeScript 
+- Javascript / TypeScript
+- Java
 - HTML / CSS / SCSS
 - Tailwindcss
 - Prisma
