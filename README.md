@@ -2,7 +2,7 @@
 
 👨‍💻 Fullstack Developer with several years of self-taught learning, specialized in React and Next.js, with a strong interest in UI/UX. I have worked on various projects to enhance my skills, which you can check out on my portfolio.
 
-#### 🌐 [Portfolio](http://portfolio.sofianelasoa.fr)
+#### 🌐 [Portfolio](https://sofianelasoa.com)
 
 <div align="center">
 <a  href="https://www.linkedin.com/in/sofiane-lasoa-506678234/"  target="_blank"><img  src="https://img.shields.io/badge/linkedin-3670A0?style=for-the-badge&logo=linkedin&logoColor=ffdd54"  alt="LinkedIn"/></a>
