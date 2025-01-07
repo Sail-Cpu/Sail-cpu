@@ -23,7 +23,6 @@
 
 ## Stats
 <div>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sail-cpu&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sail-cpu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
 </div>
 
